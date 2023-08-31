@@ -1,0 +1,43 @@
+*{padding: 0; margin: 0;}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    color: #242121;
+    background: #eee;
+    text-align: center;
+}
+
+.love{
+    padding-top: 15%;
+    
+}
+h2{
+    font-size: 72px; margin-bottom: 30px;
+}
+.love span{color: #f54c49;}
+.yes span{color:#f54c49;}
+.love a{text-decoration: none;
+        background: #eee;
+        padding: 5px;
+        margin: 5px 10px;
+        border: 3px solid #ddd;
+        border-radius: 3px;
+        
+
+}
+#no{color: #242121;
+    padding: 5px;        
+}
+#yes{color: #f54c49;
+    padding: 5px;
+}
+#no-backtomainpage{
+    color: #242121;
+    padding: 5px; 
+
+}
+#yes-backtomainpage{
+    color: #f54c49;
+    padding: 5px;
+}
